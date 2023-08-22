@@ -1,7 +1,7 @@
 ---
 title: Обо мне
 slug: /about
-featured-image: ../../static/images/traveler.jpg
+featured-image: ../../static/images/фота.jpg
 ---
 **АнтиБытие и НеОсознанность Гедеона
 Янга, журналиста и публициста, сектофила и мистагога, киноведа и книгочея,
