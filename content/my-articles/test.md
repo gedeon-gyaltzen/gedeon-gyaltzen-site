@@ -1,7 +1,7 @@
 ---
 title: Test
 date: 2023-08-24
-url: test
+url: тест
 category: test
 tags:
   - тест
