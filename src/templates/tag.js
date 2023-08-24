@@ -42,8 +42,7 @@ query TagPage($tag: String) {
         tags
       }
       frontmatter {
-        title
-        travel_dates
+        title        
         date(formatString: "MMM DD, YYYY ")
         featured_image {
           childImageSharp {
